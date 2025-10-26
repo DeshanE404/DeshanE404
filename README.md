@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Kotlin-323330?style=for-the-badge&logo=kotlin&logoColor=#00FF7F" height="32">
 <img src="https://img.shields.io/badge/Android_Studio-323330?style=for-the-badge&logo=androidstudio&logoColor=#00FF7F" height="32">
 <img src="https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visualstudio&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=visualstudiocode&logoColor=#00FF7F" height="32">
+<img src="[https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=visualstudiocode&logoColor=#00FF7F](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" height="32">
 
 </div>
 
