@@ -39,12 +39,12 @@
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="32">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="32">
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" height="32">
-<img src="https://img.shields.io/badge/Android_Studio-323330?style=for-the-badge&logo=androidstudio&logoColor=#00FF7F" height="32">
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="32">
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" height="32">
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="32">
 <img src="[https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=visualstudiocode&logoColor=#00FF7F](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" height="32">
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="32">
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" height="32">
 
 
 
