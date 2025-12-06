@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visualstudio&logoColor=#00FF7F" height="32">
 <img src="[https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=visualstudiocode&logoColor=#00FF7F](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" height="32">
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="32">
-<img src="[https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)" height="32">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="32">
 
 
 
