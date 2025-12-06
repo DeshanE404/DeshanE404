@@ -29,18 +29,19 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=c%2B%2B&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sqlite&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwindcss&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/Kotlin-323330?style=for-the-badge&logo=kotlin&logoColor=#00FF7F" height="32">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="32">
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff" height="32">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" height="32">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="32">
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" height="32">
 <img src="https://img.shields.io/badge/Android_Studio-323330?style=for-the-badge&logo=androidstudio&logoColor=#00FF7F" height="32">
-<img src="https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visualstudio&logoColor=#00FF7F" height="32">
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" height="32">
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="32">
 <img src="[https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=visualstudiocode&logoColor=#00FF7F](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" height="32">
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="32">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="32">
