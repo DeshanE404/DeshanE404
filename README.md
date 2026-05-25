@@ -1,4 +1,6 @@
-![👋 Hi, I'm Deshan Ranasingha](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Rmamk5bTgyNjJkcHo5cXAzYTlreXRvdDVoMmpwdTk0dWl4OXY3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAplZhiLAsNnG/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Rmamk5bTgyNjJkcHo5cXAzYTlreXRvdDVoMmpwdTk0dWl4OXY3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAplZhiLAsNnG/giphy.gif" alt="👋 Hi, I'm Deshan Ranasingha" />
+</p>
 
 <div align="center">
   <h1 style="color:#00FF7F;">🌱 Hi, I'm Deshan Ranasingha</h1>
